@@ -2,6 +2,6 @@
 
 Some text
 
-## Part 2
+## part TWO
 
-again some more text
+i am changing this text
